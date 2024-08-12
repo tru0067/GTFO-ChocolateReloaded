@@ -1,5 +1,135 @@
 [
     {
+        "ArchetypeID": 41,
+        "Name": "Pistol",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 42,
+        "Name": "Burst Pistol",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 43,
+        "Name": "Machine Pistol",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 49,
+        "Name": "Bullpup Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 19,
+        "Name": "SMG",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 77,
+        "Name": "PDW",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 18,
+        "Name": "Carbine",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 25,
+        "Name": "DMR",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 26,
+        "Name": "Double Tap Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 5,
+        "Name": "Assault Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 3,
+        "Name": "Burst Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 1,
+        "Name": "Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 81,
+        "Name": "Slug Shotgun",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
         "ArchetypeID": 72,
         "Name": "Scattergun",
         "Properties": [

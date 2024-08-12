@@ -19,27 +19,15 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 
 ## Main Weapons
 
-### Pistol
+### Pistol, Burst Pistol, Machine Pistol, Bullpup Rifle, SMG, PDW, Carbine, DMR, Double Tap Rifle, Assault Rifle, Burst Rifle, Rifle, Slug Shotgun
 
-### Burst Pistol
--   Damage: 3.2 -> 3.38
--   Precision Multiplier: 0.8667 -> 0.9
--   Bullet cost: 1.8 -> 1.9
-    -   Rounds/refill: 50.0 -> 47.37
-    -   Starting ammo: 166.67 -> 157.89
-    -   Maximum ammo (excluding clip): 255 -> 242
--   Burst delay: 0.2 -> 0.12
+Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### HEL Revolver
 -   Bullet cost: 5.0 -> 6.0
     -   Rounds/refill: 18.0 -> 15.0
     -   Starting ammo: 60.0 -> 50.0
     -   Maximum ammo (excluding clip): 92 -> 76
-
-### Machine Pistol
--   Damage: 1.9 -> 2.2
--   Falloff start: 7 -> 3
--   Falloff end: 35 -> 40
 
 ### HEL Autopistol
 -   Damage: 1.5 -> 1.21
@@ -48,73 +36,12 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
     -   Starting ammo: 300.0 -> 333.33
     -   Maximum ammo (excluding clip): 460 -> 511
 
-### Bullpup Rifle
--   Damage: 2.1 -> 2.91
--   Reload time: 2.3 -> 2.4
--   Bullet cost: 1.5 -> 2.1
-    -   Rounds/refill: 60.0 -> 42.86
-    -   Starting ammo: 200.0 -> 142.86
-    -   Maximum ammo (excluding clip): 306 -> 219
--   Shot delay: 0.055 -> 0.064
-
-### SMG
--   Damage: 1.98 -> 2.15
--   Precision multiplier: 0.91 -> 0.8
--   Shot delay: 0.066 -> 0.062
-
-### PDW
--   Damage: 2.15 -> 2.31
-
-### Carbine
-
--   Damage: 2.38 -> 2.01
--   Bullet cost: 1.4 -> 1.15
-
-### DMR
--   Bullet cost: 5.99 -> 5.4
-    -   Rounds/refill: 15.28 -> 16.67
-    -   Starting ammo: 50.93 -> 55.56
-    -   Maximum ammo (excluding clip): 78 -> 85
-
-### Double Tap Rifle
--   Bullet cost: 3.8 -> 3.6
-    -   Rounds/refill: 23.68 -> 25.0
-    -   Starting ammo: 78.95 -> 83.33
-    -   Maximum ammo (excluding clip): 121 -> 127
-
-### Assault Rifle
--   Damage: 2.1875 -> 2.81
--   Falloff start: 10 -> 15
--   Precision multiplier: 0.8 -> 0.9
--   Bullet cost: 1.47 -> 1.95
-    -   Rounds/refill: 61.22 -> 46.15
-    -   Starting ammo: 204.08 -> 152.85
-    -   Maximum ammo (excluding clip): 312 -> 235
--   Shot delay: 0.086 -> 0.09
-
-### Burst Rifle
-
-### Rifle
--   Damage: 5.08 -> 5.66
--   Falloff start: 22.0 -> 6.0
--   Falloff end: 80 -> 90
--   Stagger multiplier: 1.75 -> 1.25
--   Clipsize: 14 -> 16
-
 ### Sawed-Off Shotgun
 -   Clipsize: 4 -> 3
 
 ### HEL Shotgun
 -   Damage: 13.36 -> 12.48 (damage per pellet: 1.67 -> 1.56)
 -   Clipsize: 14 -> 12
-
-### Slug Shotgun
--   Falloff end: 40 -> 50
--   Bullet cost: 12.0 -> 11.5
-    -   Rounds/refill: 7.50 -> 7.83
-    -   Starting ammo: 25.00 -> 26.09
-    -   Maximum ammo (excluding clip): 38 -> 40
--   Shot delay: 0.75 -> 0.65
 
 ## Special Weapons
 
