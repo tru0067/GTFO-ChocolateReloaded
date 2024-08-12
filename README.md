@@ -1,7 +1,7 @@
 # Chocolate Reloaded
 Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p/tru0067/VanillaReloaded/) as a base point and goes crazy from there. Most weapons have their Vanilla Reloaded changes + 2 pierce with a 0.5x pierce multi.
 
-## Changes
+## Melees
 
 ### Sledgehammer
 
@@ -16,6 +16,8 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 -   Charged attack stamina cost: 5% -> 0%
 -   Shove stamina cost: 5% -> 0%
 -   Max damage charge time: 1.8 -> 1.5
+
+## Main Weapons
 
 ### Pistol
 
@@ -113,6 +115,8 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
     -   Starting ammo: 25.00 -> 26.09
     -   Maximum ammo (excluding clip): 38 -> 40
 -   Shot delay: 0.75 -> 0.65
+
+## Special Weapons
 
 ### Heavy Assault Rifle
 -   Falloff start: 12.0 -> 20.0
@@ -220,6 +224,8 @@ Moved to Special Weapon category.
     -   Starting ammo: 15.0 -> 13.33
     -   Maximum ammo (excluding clip): 23 -> 20
 -   Pierce multiplier: 1.0 -> 0.85
+
+## Tools
 
 ### Bio Tracker
 
