@@ -23,11 +23,9 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 
 Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
-### HEL Revolver
--   Bullet cost: 5.0 -> 6.0
-    -   Rounds/refill: 18.0 -> 15.0
-    -   Starting ammo: 60.0 -> 50.0
-    -   Maximum ammo (excluding clip): 92 -> 76
+### HEL Revolver, HEL Shotgun
+
+*No changes.*
 
 ### HEL Autopistol
 -   Damage: 1.5 -> 1.21
@@ -38,10 +36,6 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### Sawed-Off Shotgun
 -   Clipsize: 4 -> 3
-
-### HEL Shotgun
--   Damage: 13.36 -> 12.48 (damage per pellet: 1.67 -> 1.56)
--   Clipsize: 14 -> 12
 
 ## Special Weapons
 
