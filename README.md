@@ -65,11 +65,8 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 -   Charge time: 0.2 -> 0.15
 
 ### Sniper
--   Clip size: 2 -> 3
--   Bullet cost: 17.5 -> 22.0
-    -   Rounds/refill: 5.14 -> 4.09
-    -   Starting ammo: 8.57 -> 6.82
-    -   Maximum ammo (excluding clip): 13 -> 10
+
+Vanilla Reloaded changes + 2 pierce.
 
 ### HEL Rifle
 -   Bullet cost: 10.0 -> 11.25
