@@ -24,7 +24,7 @@ Can now sprint at full speed while charging.
 
 ## Main Weapons
 
-### Pistol, Burst Pistol, Machine Pistol, Bullpup Rifle, SMG, PDW, Carbine, DMR, Double Tap Rifle, Assault Rifle, Burst Rifle, Rifle, Slug Shotgun
+### Pistol, Burst Pistol, Machine Pistol, Bullpup Rifle, SMG, PDW, Carbine, DMR, Double Tap Rifle, Assault Rifle, Burst Rifle, Rifle, Sawed-Off Shotgun, Slug Shotgun
 
 Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
@@ -35,10 +35,6 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 ### HEL Autopistol
 
 -   Damage: 1.5 -> 1.6
-
-### Sawed-Off Shotgun
-
--   Clipsize: 4 -> 3
 
 ## Special Weapons
 

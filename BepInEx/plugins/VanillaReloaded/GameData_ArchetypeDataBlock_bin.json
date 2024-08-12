@@ -4675,8 +4675,8 @@
         "magnitude": 5.83095169,
         "sqrMagnitude": 34.0
       },
-      "PiercingBullets": false,
-      "PiercingDamageCountLimit": 5,
+      "PiercingBullets": true,
+      "PiercingDamageCountLimit": 2,
       "HipFireSpread": 0.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.33,

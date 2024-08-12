@@ -120,6 +120,16 @@
         ]
     },
     {
+        "ArchetypeID": 45,
+        "Name": "Sawed-Off Shotgun",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
         "ArchetypeID": 81,
         "Name": "Slug Shotgun",
         "Properties": [
