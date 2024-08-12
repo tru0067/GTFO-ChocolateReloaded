@@ -34,11 +34,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### HEL Autopistol
 
--   Damage: 1.5 -> 1.21
--   Bullet cost: 1.0 -> 0.9
-    -   Rounds/refill: 90.0 -> 100.0
-    -   Starting ammo: 300.0 -> 333.33
-    -   Maximum ammo (excluding clip): 460 -> 511
+-   Damage: 1.5 -> 1.6
 
 ### Sawed-Off Shotgun
 
