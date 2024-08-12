@@ -52,12 +52,7 @@ No changes, this weapon is already busted.
 
 ### HEL Gun
 
--   Damage: 16.25 -> 14.21
--   Bullet cost: 5.74 -> 6.1
-    -   Rounds/refill: 15.68 -> 14.75
-    -   Starting ammo: 26.13 -> 24.59
-    -   Maximum ammo (excluding clip): 40 -> 37
--   Charge time: 0.2 -> 0.15
+-   Charge time: 0.2 -> 0.1
 
 ### Sniper
 
