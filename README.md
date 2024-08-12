@@ -60,11 +60,7 @@ Vanilla Reloaded changes + 2 pierce.
 
 ### HEL Rifle
 
--   Bullet cost: 10.0 -> 11.25
-    -   Rounds/refill: 9.0 -> 8.0
-    -   Starting ammo: 15.0 -> 13.33
-    -   Maximum ammo (excluding clip): 23 -> 20
--   Pierce multiplier: 1.0 -> 0.85
+-   Cooldown: 0.75 -> 0.5
 
 ## Tools
 

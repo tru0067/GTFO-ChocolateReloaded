@@ -256,15 +256,5 @@
                 "PierceDamageMulti": 0.5
             }
         ]
-    },
-    {
-        "ArchetypeID": 65,
-        "Name": "HEL Rifle",
-        "Properties": [
-            {
-                "Name": "PierceMulti",
-                "PierceDamageMulti": 0.85
-            }
-        ]
     }
 ]
