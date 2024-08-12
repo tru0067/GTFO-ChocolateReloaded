@@ -1,5 +1,4 @@
 # Chocolate Reloaded
-
 Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p/tru0067/VanillaReloaded/) as a base point and goes crazy from there. Most weapons have their Vanilla Reloaded changes + 2 pierce with a 0.5x pierce multi.
 
 ## Changes
@@ -278,5 +277,7 @@ Moved to Special Weapon category.
 -   Bio-symbiosis shot delay multiplier: 0.6 -> 0.9
 
 ## Miscellaneous Changes
-
 -   Sledgehammer, Knife and Bat have had `CanHitMultipleEnemies` set to `true`. This allows them to double hit enemies with the hitscan check and first hitbox like Spear can.
+
+## Icon
+jaycobs <https://www.flickr.com/photos/98154794@N00/2510883156/> CC BY-NC-SA 2.0
