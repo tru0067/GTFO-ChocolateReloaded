@@ -4,23 +4,7 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 
 ## Melees
 
-### Sledgehammer
-
-### Knife
-
-### Bat
-
--   Light attack damage: 3.0 -> 3.5
--   Light attack stagger multiplier: 5.0 -> 4.0
-
-### Spear
-
-Can now sprint at full speed while charging.
-
--   Light attack damage: 2.0 -> 2.5
--   Charged attack stamina cost: 5% -> 0%
--   Shove stamina cost: 5% -> 0%
--   Max damage charge time: 1.8 -> 1.5
+Vanilla Reloaded changes + Spear can now sprint at full speed while charging.
 
 ## Main Weapons
 
