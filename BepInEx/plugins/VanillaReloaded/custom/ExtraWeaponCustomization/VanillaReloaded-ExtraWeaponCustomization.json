@@ -130,6 +130,56 @@
         ]
     },
     {
+        "ArchetypeID": 73,
+        "Name": "Heavy Assault Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 17,
+        "Name": "Short Rifle",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 69,
+        "Name": "Heavy SMG",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 33,
+        "Name": "Shotgun",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 35,
+        "Name": "Combat Shotgun",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
         "ArchetypeID": 72,
         "Name": "Scattergun",
         "Properties": [
@@ -146,6 +196,50 @@
             {
                 "Name": "TumorMulti",
                 "TumorDamageMulti": 0.75
+            },
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 37,
+        "Name": "Revolver",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 23,
+        "Name": "Machinegun (Arbalist)",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 59,
+        "Name": "Machinegun (Veruta)",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 80,
+        "Name": "High Caliber Pistol",
+        "Properties": [
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
             }
         ]
     },
@@ -156,6 +250,10 @@
             {
                 "Name": "TumorMulti",
                 "TumorDamageMulti": 0.7
+            },
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.5
             }
         ]
     },

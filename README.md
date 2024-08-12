@@ -45,47 +45,9 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ## Special Weapons
 
-### Heavy Assault Rifle
--   Falloff start: 12.0 -> 20.0
--   Precision multiplier: 0.8 -> 0.9
--   Bullet cost: 1.92 -> 1.66
-    -   Rounds/refill: 46.88 -> 54.22
-    -   Starting ammo: 78.13 -> 90.36
-    -   Maximum ammo (excluding clip): 119 -> 138
--   Reduced recoil
-    -   Minimum power: 0.8 -> 0.7 (pre-R7 was 0.625)
-    -   Maximum power: 1.3 -> 1.0 (pre-R7 was 0.75)
+### Heavy Assault Rifle, Short Rifle, Heavy SMG, Shotgun, Combat Shotgun, Choke Mod Shotgun, Revolver, Machinegun (Arbalist), Machinegun (Veruta), High Caliber Pistol, Precision Rifle
 
-### Short Rifle
--   Damage: 4.81 -> 6.91
--   Falloff start: 8 -> 6
--   Falloff end: 58 -> 50
--   Stagger multiplier: 0.5 -> 0.7
--   Precision multiplier: 0.7413 -> 0.8
--   Clip size: 30 -> 24
--   Bullet cost: 1.38 -> 1.8
-    -   Rounds/refill: 65.22 -> 50
-    -   Starting ammo: 108.70 -> 83.33
-    -   Maximum ammo (excluding clip): 166 -> 127
-
-### Heavy SMG
-Moved to Special Weapon category.
-
--   Damage: 2.45 -> 3.25
--   Clipsize: 33 -> 44
--   Bullet cost: 1.5 -> 1.2
-    -   Rounds/refill: 60.00 -> 75.00
-    -   Starting ammo: 200.00 -> 125.00
-    -   Maximum ammo (excluding clip): 306 -> 191
--   Shot delay: 0.078 -> 0.054
-
-### Shotgun
-
-### Combat Shotgun
--   Bullet cost: 4.0 -> 4.5
-    -   Rounds/refill: 22.5 -> 20.0
-    -   Starting ammo: 37.50 -> 33.33
-    -   Maximum ammo (excluding clip): 57 -> 51
+Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### Scattergun
 -   Damage: 153.6 -> 128.32 (damage per pellet: 4.8 -> 4.01)
@@ -94,31 +56,6 @@ Moved to Special Weapon category.
     -   Starting ammo: 9.20 -> 7.50
     -   Maximum ammo (excluding clip): 14 -> 11
 -   Tumor multiplier: 1.0 -> 0.75
-
-### Choke Mod Shotgun
--   Damage: 30.08 -> 40.1
--   Reload time: 2.72 -> 2.5
--   Pellet count: 8 -> 10 (damage per pellet: 3.76 -> 4.01)
--   Cone size: 0 -> 2
--   Tumor multiplier: 1.0 -> 0.75
-
-### Revolver
--   Damage: 14.21 -> 16.25
--   Flashlight: Short range -> Medium range #1 (see [the wiki](https://gtfo.fandom.com/wiki/Flashlight) for more on flashlights)
-
-### Machinegun (Arbalist)
--   Damage: 5.35 -> 6.3
--   Bullet cost: 1.595 -> 1.96
-    -   Rounds/refill: 56.43 -> 45.92
-    -   Starting ammo: 94.04 -> 76.53
-    -   Maximum ammo (excluding clip): 144 -> 117
-
-### Machinegun (Veruta)
--   Damage: 3.51 -> 4.05
--   Bullet cost: 1.15 -> 1.26
-    -   Rounds/refill: 78.26 -> 71.43
-    -   Starting ammo: 130.43 -> 119.05
-    -   Maximum ammo (excluding clip): 200 -> 182
 
 ### Burst Cannon
 -   Clip size: 20 -> 18
@@ -130,13 +67,6 @@ Moved to Special Weapon category.
     -   Starting ammo: 26.13 -> 24.59
     -   Maximum ammo (excluding clip): 40 -> 37
 -   Charge time: 0.2 -> 0.15
-
-### High Caliber Pistol
-
-### Precision Rifle
--   Precision multiplier: 1.3 -> 2.15
--   Clip size: 10 -> 12
--   Tumor multiplier: 1.0 -> 0.7
 
 ### Sniper
 -   Clip size: 2 -> 3
