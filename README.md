@@ -12,6 +12,8 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 -   Light attack stagger multiplier: 5.0 -> 4.0
 
 ### Spear
+Can now sprint at full speed while charging.
+
 -   Light attack damage: 2.0 -> 2.5
 -   Charged attack stamina cost: 5% -> 0%
 -   Shove stamina cost: 5% -> 0%
