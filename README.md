@@ -44,12 +44,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### Scattergun
 
--   Damage: 153.6 -> 128.32 (damage per pellet: 4.8 -> 4.01)
--   Bullet cost: 16.3 -> 20.0
-    -   Rounds/refill: 5.52 -> 4.50
-    -   Starting ammo: 9.20 -> 7.50
-    -   Maximum ammo (excluding clip): 14 -> 11
--   Tumor multiplier: 1.0 -> 0.75
+No changes, this weapon is already busted.
 
 ### Burst Cannon
 

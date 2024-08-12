@@ -190,16 +190,6 @@
         ]
     },
     {
-        "ArchetypeID": 72,
-        "Name": "Scattergun",
-        "Properties": [
-            {
-                "Name": "TumorMulti",
-                "TumorDamageMulti": 0.75
-            }
-        ]
-    },
-    {
         "ArchetypeID": 34,
         "Name": "Choke Mod",
         "Properties": [
