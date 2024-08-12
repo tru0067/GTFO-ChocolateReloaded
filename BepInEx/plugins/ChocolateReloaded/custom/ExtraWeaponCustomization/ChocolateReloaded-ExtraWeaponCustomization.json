@@ -234,6 +234,18 @@
         ]
     },
     {
+        "ArchetypeID": 22,
+        "Name": "Burst Cannon",
+        "Properties": [
+            {
+                "Name": "AutoTrigger"
+            },
+            {
+                "Name": "HoldBurst"
+            }
+        ]
+    },
+    {
         "ArchetypeID": 80,
         "Name": "High Caliber Pistol",
         "Properties": [

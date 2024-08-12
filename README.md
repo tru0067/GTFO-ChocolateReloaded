@@ -48,7 +48,9 @@ No changes, this weapon is already busted.
 
 ### Burst Cannon
 
--   Clip size: 20 -> 18
+Can now burst cancel by releasing the fire button early and can continually fire bursts by holding the fire button.
+
+-   Burst count: 3 -> 5
 
 ### HEL Gun
 
