@@ -1,4 +1,5 @@
 # Chocolate Reloaded
+
 Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p/tru0067/VanillaReloaded/) as a base point and goes crazy from there. Most weapons have their Vanilla Reloaded changes + 2 pierce with a 0.5x pierce multi.
 
 ## Melees
@@ -8,10 +9,12 @@ Every weapon is busted. Uses [Vanilla Reloaded](https://thunderstore.io/c/gtfo/p
 ### Knife
 
 ### Bat
+
 -   Light attack damage: 3.0 -> 3.5
 -   Light attack stagger multiplier: 5.0 -> 4.0
 
 ### Spear
+
 Can now sprint at full speed while charging.
 
 -   Light attack damage: 2.0 -> 2.5
@@ -30,6 +33,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 *No changes.*
 
 ### HEL Autopistol
+
 -   Damage: 1.5 -> 1.21
 -   Bullet cost: 1.0 -> 0.9
     -   Rounds/refill: 90.0 -> 100.0
@@ -37,6 +41,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
     -   Maximum ammo (excluding clip): 460 -> 511
 
 ### Sawed-Off Shotgun
+
 -   Clipsize: 4 -> 3
 
 ## Special Weapons
@@ -46,6 +51,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 
 ### Scattergun
+
 -   Damage: 153.6 -> 128.32 (damage per pellet: 4.8 -> 4.01)
 -   Bullet cost: 16.3 -> 20.0
     -   Rounds/refill: 5.52 -> 4.50
@@ -54,9 +60,11 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 -   Tumor multiplier: 1.0 -> 0.75
 
 ### Burst Cannon
+
 -   Clip size: 20 -> 18
 
 ### HEL Gun
+
 -   Damage: 16.25 -> 14.21
 -   Bullet cost: 5.74 -> 6.1
     -   Rounds/refill: 15.68 -> 14.75
@@ -69,6 +77,7 @@ Vanilla Reloaded changes + 2 pierce with 0.5x pierce multi.
 Vanilla Reloaded changes + 2 pierce.
 
 ### HEL Rifle
+
 -   Bullet cost: 10.0 -> 11.25
     -   Rounds/refill: 9.0 -> 8.0
     -   Starting ammo: 15.0 -> 13.33
@@ -90,6 +99,7 @@ Vanilla Reloaded changes + 2 pierce.
 *No changes.*
 
 ### Burst Sentry
+
 -   Bullet cost: 2.05 -> 2.1
     -   Rounds/refill: 51.35 -> 50.13
     -   Starting ammo: 171.16 -> 167.08
@@ -98,6 +108,7 @@ Vanilla Reloaded changes + 2 pierce.
 -   Burst delay: 1.0 -> 1.05
 
 ### HEL Auto Sentry
+
 -   Bullet cost: 0.7 -> 0.5
     -   Rounds/refill: 150.38 -> 210.53
     -   Starting ammo: 501.25 -> 701.75
@@ -105,6 +116,7 @@ Vanilla Reloaded changes + 2 pierce.
 -   Shot delay: 0.08 -> 0.125
 
 ### Sniper Sentry
+
 -   Bullet cost: 16.0 -> 15.0
     -   Rounds/refill: 6.58 -> 7.02
     -   Starting ammo: 21.93 -> 23.39
@@ -114,6 +126,7 @@ Vanilla Reloaded changes + 2 pierce.
 -   Bio-symbiosis start fire delay multiplier: 0.5 -> 0.7
 
 ### Shotgun Sentry
+
 -   Damage: 15.05 -> 15.1
 -   Bullet cost: 1.58 -> 0.8
     -   Rounds/refill: 13.32 -> 13.16
@@ -133,7 +146,9 @@ Vanilla Reloaded changes + 2 pierce.
 -   Bio-symbiosis shot delay multiplier: 0.6 -> 0.9
 
 ## Miscellaneous Changes
+
 -   Sledgehammer, Knife and Bat have had `CanHitMultipleEnemies` set to `true`. This allows them to double hit enemies with the hitscan check and first hitbox like Spear can.
 
 ## Icon
+
 jaycobs <https://www.flickr.com/photos/98154794@N00/2510883156/> CC BY-NC-SA 2.0
